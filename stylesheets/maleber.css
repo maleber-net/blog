@@ -658,13 +658,13 @@
 .malePostContainer {
      padding :5px 40px 5px 40px;
      margin:5px;
-    background: #d6d6d6;
+    background: #F7F9F9;
     -moz-border-radius: 5px 5px 5px 5px;
     -webkit-border-radius: 5px 5px 5px 5px;
     border-radius:5px;
     font: normal normal 12px  Helvetica, FreeSans, sans-serif, Arial, Tahoma; 
     line-height: 130%;
-    color: #F7F9F9; 
+    color: #2d2d2d; 
 }
 
 .malePostContainer2 {
@@ -737,9 +737,11 @@
 background: #F7F9F9;
 padding: 10px;
 padding-bottom: 20px;
--moz-border-radius: 8px;
--webkit-border-radius: 8px;
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px;
+border-radius:6px;
 border: 8px solid #EEF2F2;
+white-space: normal;
 }
 
 .frame  {
