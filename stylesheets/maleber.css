@@ -735,8 +735,8 @@
 
 .rightBoxInner {
 	background: #F7F9F9;
-	padding: 5px;
-	padding-bottom: 20px;
+	padding: 10px;
+	margin-bottom:20px;
 	-moz-border-radius: 6px;
 	-webkit-border-radius: 6px;
 	border-radius:6px;
@@ -748,7 +748,9 @@
 }
 
 .rightBoxInner h2 {
-	font-size :  1.4em;
+	font-size :  1.3em;
+	font-weight: normal;
+	-webkit-margin-before: 0;
 
 }
 
