@@ -734,14 +734,22 @@
 
 
 .rightBoxInner {
-background: #F7F9F9;
-padding: 10px;
-padding-bottom: 20px;
--moz-border-radius: 6px;
--webkit-border-radius: 6px;
-border-radius:6px;
-border: 8px solid #EEF2F2;
-white-space: normal;
+	background: #F7F9F9;
+	padding: 5px;
+	padding-bottom: 20px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius:6px;
+	border: 1px solid #EEF2F2;
+	white-space: normal;
+	line-height: 150%;
+	width : 270px;
+	
+}
+
+.rightBoxInner h2 {
+	font-size :  1.4em;
+
 }
 
 .frame  {
