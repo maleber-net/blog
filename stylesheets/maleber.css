@@ -664,7 +664,7 @@
     border-radius:5px;
     font: normal normal 12px  Helvetica, FreeSans, sans-serif, Arial, Tahoma; 
     line-height: 130%;
-    color: #2d2d2d; 
+    color: #F7F9F9; 
 }
 
 .malePostContainer2 {
@@ -729,6 +729,17 @@
     -webkit-border-radius: 5px 5px 5px 5px;
     border-radius:5px;
 
+}
+
+
+
+.rightBoxInner {
+background: #F7F9F9;
+padding: 10px;
+padding-bottom: 20px;
+-moz-border-radius: 8px;
+-webkit-border-radius: 8px;
+border: 8px solid #EEF2F2;
 }
 
 .frame  {
