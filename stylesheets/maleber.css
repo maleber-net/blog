@@ -709,6 +709,7 @@
     display: block;
     font: normal normal 1.6em  Helvetica, FreeSans, sans-serif, Arial, Tahoma; 
     margin : 0 0 3px 0;
+    line-height: 120%;
 }
 .malePostTextTop {
 }
