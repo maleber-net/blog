@@ -667,7 +667,7 @@
     -moz-border-radius: 5px 5px 5px 5px;
     -webkit-border-radius: 5px 5px 5px 5px;
     border-radius:5px;
-    font: normal normal 13px  Arial, Helvetica, sans-serif;; 
+    font: normal normal 13px  'Open Sans',Arial, Helvetica, sans-serif;; 
     line-height: 130%;
     color: #2d2d2d; 
 }
@@ -676,7 +676,7 @@
      padding :5px;
      margin:10px 0 10px 0;
 
-    font: normal normal 13px  Arial, Helvetica, sans-serif;; 
+    font: normal normal 13px  'Open Sans',Arial, Helvetica, sans-serif;; 
     line-height: 130%;
     color: #2d2d2d; 
 }
@@ -687,7 +687,7 @@
   font-size: 16px;
   line-height: 180%;
   background: none;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: 'Open Sans', Georgia, "Times New Roman", Times, serif;
 }
 
 .malePostInnerContainer {
@@ -747,7 +747,7 @@
 	padding : 5px;
     color : #ffffff;
 	background-color: #121212; 
-    font: normal normal 0.75em   Georgia, "Times New Roman", Times, serif; 
+    font: normal normal 0.75em   'Open Sans',Georgia, "Times New Roman", Times, serif; 
     -moz-border-radius: 5px 5px 5px 5px;
     -webkit-border-radius: 5px 5px 5px 5px;
     border-radius:5px;
