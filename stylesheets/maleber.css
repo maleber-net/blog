@@ -699,10 +699,26 @@
   border-color: #dedede;
 }
 
+
+.malePostInnerContainer_archive {
+  margin: 5px 5px 15px 5px;
+  padding: 0 0 10px 0;
+  border-bottom: 1px solid;
+  border-color: #dedede;
+}
+
+
 .malePostInnerContainer_item {
   margin: 0;
   padding: 0;
 }
+
+
+
+
+
+
+
 
 
 
