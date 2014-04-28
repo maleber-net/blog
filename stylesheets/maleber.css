@@ -686,6 +686,19 @@
 .malePostContainer_index a:hover {color:#005c94;text-decoration:none;}
 .malePostContainer_item a:hover {color:#005c94;text-decoration:none;}
 
+.malePostInnerContainer_index {
+  margin: 5px 5px 15px 5px;
+  padding: 0 0 10px 0;
+  border-bottom: 1px solid;
+  border-color: #dedede;
+}
+
+.malePostInnerContainer_item {
+  margin: 0;
+  padding: 0;
+}
+
+
 
 
 .malePostContainerListMore {
