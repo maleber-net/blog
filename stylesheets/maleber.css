@@ -673,7 +673,7 @@
 }
 
 .malePostContainer_item {
-    padding :0px;
+    padding :0px 10px 0 0;
     font: normal normal 16px  'Open Sans',Arial, Helvetica, sans-serif;; 
     line-height: 180%;
 }
