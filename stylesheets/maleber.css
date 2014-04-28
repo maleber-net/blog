@@ -674,14 +674,14 @@
 
 .malePostContainer_item {
     padding :0px;
-    background: #F7F9F9;
-    -moz-border-radius: 5px 5px 5px 5px;
-    -webkit-border-radius: 5px 5px 5px 5px;
-    border-radius:5px;
     font: normal normal 16px  'Open Sans',Arial, Helvetica, sans-serif;; 
     line-height: 180%;
 }
-
+.malePostContainer_archive {
+    padding :0px;
+    font: normal normal 16px  'Open Sans',Arial, Helvetica, sans-serif;; 
+    line-height: 180%;
+}
 
 .malePostContainer_index a:hover {color:#005c94;text-decoration:none;}
 .malePostContainer_item a:hover {color:#005c94;text-decoration:none;}
