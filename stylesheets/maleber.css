@@ -660,7 +660,7 @@
 
 /* css posting lins */
 
-.malePostContainer {
+.malePostContainer_index {
      padding :5px 66px 5px 62px;
      margin:10px 0 10px 0;
     background: #F7F9F9;
@@ -671,6 +671,22 @@
     line-height: 130%;
     color: #2d2d2d; 
 }
+
+.malePostContainer_item {
+    padding :0px;
+    background: #F7F9F9;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border-radius:5px;
+    font: normal normal 16px  'Open Sans',Arial, Helvetica, sans-serif;; 
+    line-height: 180%;
+}
+
+
+.malePostContainer_index a:hover {color:#005c94;text-decoration:none;}
+.malePostContainer_item a:hover {color:#005c94;text-decoration:none;}
+
+
 
 .malePostContainerListMore {
      padding :5px;
@@ -699,7 +715,7 @@
 
 .malePostContainer2 a:hover {color:#005c94;text-decoration:none;}
 
-.malePostContainer a:hover {color:#005c94;text-decoration:none;}
+
 .malePostImage {
     padding :5px;
 
