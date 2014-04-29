@@ -17,9 +17,8 @@
 ----------------------------------------------------------------------------------------------------*/
 .container_24 {
 	width: 92%;
-	//margin-left: 4%;
-	//margin-right: 4%;
-		margin-left: auto;
+	max-width : 1200px;
+	margin-left: auto;
 	margin-right: auto;
 }
 
