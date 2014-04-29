@@ -17,8 +17,10 @@
 ----------------------------------------------------------------------------------------------------*/
 .container_24 {
 	width: 92%;
-	margin-left: 4%;
-	margin-right: 4%;
+	//margin-left: 4%;
+	//margin-right: 4%;
+		margin-left: auto;
+	margin-right: auto;
 }
 
 /* Grid >> Global
